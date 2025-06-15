@@ -1,0 +1,39 @@
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .hero-bg {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .card-bg {
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(10px);
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 0;
+      height: 100%;
+      width: 4px;
+      background: #4b5563;
+      transform: translateX(-50%);
+    }
+
+    #services, #biography, #skills, #contact {
+      scroll-margin-top: 5rem;
+    }
+
+    .btn-light {
+      transition: all 0.4s ease;
+    }
+
+    .btn-light:hover {
+      background-color: #fff;
+      color: #000;
+    }
