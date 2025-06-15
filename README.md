@@ -8,7 +8,7 @@ Este proyecto es una **landing page moderna** para promocionar mis servicios com
 ## 🚀 Vista previa
 
 > 🌐 [Ver página en línea (GitHub Pages)](https://tuusuario.github.io/nombre-del-repo)  
-> *(Reemplaza con tu URL cuando esté publicada)*
+> *(https://rodrigo-12-debug.github.io/OpennCode/)*
 
 ---
 
